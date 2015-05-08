@@ -41,10 +41,11 @@ Frontend Knowledge Structure
             - [Neovim](http://neovim.org/)
             - [Komodo IDE / Edit](http://www.activestate.com/komodo-edit)
             - [Eclipse](http://www.eclipse.org/)
-            - [Visual Studio](http://www.visualstudio.com/)
+            - [Visual Studio](http://www.visualstudio.com/)/[Visual Studio Code](https://code.visualstudio.com/)
             - [NetBeans](https://netbeans.org/)
             - [Cloud9 IDE](http://c9.io/)
             - [HBuilder](http://www.dcloud.io/)
+            - [Nuclide](http://nuclide.io/)
         - 调试工具
             - [Firebug](http://getfirebug.com/)/[Firecookie](https://addons.mozilla.org/en-US/firefox/addon/firecookie/)
             - [YSlow](http://developer.yahoo.com/yslow/)
@@ -86,7 +87,6 @@ Frontend Knowledge Structure
         - [qooxdoo](http://qooxdoo.org/)
         - [React](http://facebook.github.io/react/)
         - [Brick](http://mozbrick.github.io/)
-        - [Knockout](http://knockoutjs.com/)
     - 前端标准/规范
         - HTTP/1.1: RFCs 7230-7235
         - [HTTP/2](https://http2.github.io/)
